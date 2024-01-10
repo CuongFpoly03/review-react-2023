@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "sach kinh te",
+      "price": 234,
+      "quantity": 2,
+      "description": "nó thật là đẹp"
+    },
+    {
+      "id": 2,
+      "name": "sach chinh tri",
+      "price": 266,
+      "quantity": 2,
+      "description": "nó thật hay"
+    }
+  ]
+}
